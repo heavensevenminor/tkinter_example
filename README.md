@@ -1,4 +1,4 @@
-# tkinter_example
+# tkinter example
 1. tkinter and oop
 2. window option
 3. widgets
